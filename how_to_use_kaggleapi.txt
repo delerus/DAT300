@@ -1,0 +1,4 @@
+Some information about how to use kaggle can be found here:
+
+http://medium.com/@move37timm/using-kaggle-api-for-google-colaboratory-d18645f93648aggle 
+https://github.com/Kaggle/kaggle-api
